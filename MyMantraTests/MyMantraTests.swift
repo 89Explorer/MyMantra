@@ -1,0 +1,17 @@
+//
+//  MyMantraTests.swift
+//  MyMantraTests
+//
+//  Created by 권정근 on 11/15/24.
+//
+
+import Testing
+@testable import MyMantra
+
+struct MyMantraTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
